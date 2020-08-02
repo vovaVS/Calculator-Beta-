@@ -1,3 +1,3 @@
-# Calculator 1.0;
+# Calculator 1.0 C#;
 BETA VERSION;
 LICENSION;
