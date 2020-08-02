@@ -1,0 +1,10 @@
+C:\Users\Вова\Desktop\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.config
+C:\Users\Вова\Desktop\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+C:\Users\Вова\Desktop\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\Users\Вова\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csprojAssemblyReference.cache
+C:\Users\Вова\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Form1.resources
+C:\Users\Вова\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+C:\Users\Вова\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.cache
+C:\Users\Вова\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\Вова\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+C:\Users\Вова\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
