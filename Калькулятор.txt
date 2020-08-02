@@ -1,0 +1,10 @@
+Не полный калькулятор:
+Wedth = 385
+Height = 410
+textBox1.Wedth = 365
+
+Полный калькулятор:
+Wedth = 640
+Height = 410
+textBox1.Wedth = 621
+
